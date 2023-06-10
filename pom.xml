@@ -41,7 +41,7 @@
 
         <!-- Persistence -->
         <spring-data.version>2022.0.0</spring-data.version>
-        <hibernate.version>6.1.4.Final</hibernate.version>
+        <hibernate.version>6.2.2.Final</hibernate.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
         <hsqldb.version>2.7.1</hsqldb.version>
         <h2database.version>2.1.214</h2database.version>
