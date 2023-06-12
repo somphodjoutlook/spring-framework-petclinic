@@ -31,7 +31,7 @@
         <webjars-flatpickr.version>4.6.13</webjars-flatpickr.version>
 
         <!-- Jakarta EE / Java SE dependencies -->
-        <tomcat.version>10.0.14</tomcat.version>
+        <tomcat.version>10.1.8</tomcat.version>
         <jaxb-api.version>3.0.0</jaxb-api.version>
         <jaxb-runtime.version>3.0.2</jaxb-runtime.version>
         <jakarta-activation.version>2.0.1</jakarta-activation.version>
